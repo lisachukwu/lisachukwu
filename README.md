@@ -1,11 +1,11 @@
-👋 Hi, I’m @lisachukwu
+Hi there, I’m Lisa Chukwu
 
 ![](https://komarev.com/ghpvc/?username=lisachukwu&color=orange&style=for-the-badge)
 
 ## I'm a Data Scientist!
 
-- 👀 I’m interested in all things Data
-- 🌱 I’m currently learning AI
+- I’m interested in all things Data
+- I’m currently learning AI
 - 2023 Goals: Improve on my soft skils, make commits here everyday!
 
 
