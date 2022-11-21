@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lisachukwu&color=orange&style=for-the-badge)
 
-
+## I'm a Data Scientist!
 
 - 👀 I’m interested in all things Data
 - 🌱 I’m currently learning AI
