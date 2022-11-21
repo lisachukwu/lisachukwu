@@ -20,9 +20,11 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/undefined/python--v1.png" />
+<img align="left" alt="R" width="26px" src=https://inceptum.s3.us-east-1.amazonaws.com/6BUpspOfONMu/R_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA3HNMG24SATQ2TORO%2F20221121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221121T005659Z&X-Amz-Expires=345600&X-Amz-Signature=70b02731e26be1fd832b9468c72392ee5761c49d0f3389d547394b0980652fc4&X-Amz-SignedHeaders=host&x-id=GetObject />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://img.icons8.com/fluency/48/undefined/jupyter.png" />
 <img align="left" alt="Power BI" width="26px" src="https://img.icons8.com/color/48/undefined/power-bi.png" />
-<img align="left" alt="R" width="26px" src=https://inceptum.s3.us-east-1.amazonaws.com/6BUpspOfONMu/R_logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA3HNMG24SATQ2TORO%2F20221121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221121T005659Z&X-Amz-Expires=345600&X-Amz-Signature=70b02731e26be1fd832b9468c72392ee5761c49d0f3389d547394b0980652fc4&X-Amz-SignedHeaders=host&x-id=GetObject />
+<img align="left" alt="Power BI" width="26px" src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" />
+
 
 <br />
 
