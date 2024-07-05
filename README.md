@@ -5,8 +5,8 @@
 ## I'm a Data Scientist!
 
 - I’m interested in all things Data
-- I’m currently learning AI
-- 2023 Goals: Improve on my soft skils, make commits here everyday!
+- I’m currently learning AI and Software Development (Frontend)
+- 2024 Goals: Improve on my soft skils, make commits here everyday!
 
 
 ### Connect with me:
